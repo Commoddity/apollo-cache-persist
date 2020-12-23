@@ -1,6 +1,6 @@
 {
-  "name": "@commoddity/apollo3-cache-persist",
-  "version": "0.9.1",
+  "name": "@coin-miles/apollo3-cache-persist",
+  "version": "1.0.0",
   "description": "Simple persistence for all Apollo cache implementations",
   "author": "James Reggio <james.reggio@gmail.com>",
   "contributors": [
