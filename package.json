@@ -1,5 +1,5 @@
 {
-  "name": "apollo3-cache-persist-secure-local-storage",
+  "name": "@commoddity/apollo3-cache-persist",
   "version": "0.9.1",
   "description": "Simple persistence for all Apollo cache implementations",
   "author": "James Reggio <james.reggio@gmail.com>",
