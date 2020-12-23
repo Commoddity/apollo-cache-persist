@@ -1,5 +1,5 @@
 {
-  "name": "apollo3-cache-persist",
+  "name": "apollo3-cache-persist-secure-local-storage",
   "version": "0.9.1",
   "description": "Simple persistence for all Apollo cache implementations",
   "author": "James Reggio <james.reggio@gmail.com>",
@@ -14,7 +14,7 @@
   "typings": "./lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apollographql/apollo-cache-persist.git"
+    "url": "git+https://github.com/Commoddity/apollo-cache-persist"
   },
   "homepage": "https://github.com/apollographql/apollo-cache-persist#readme",
   "bugs": "https://github.com/apollographql/apollo-cache-persist/issues",
