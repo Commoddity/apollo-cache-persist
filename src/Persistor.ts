@@ -69,6 +69,8 @@ export default class Persistor<T> {
     try {
       const data = await this.storage.read();
 
+      console.log('YO CHECK THESE OUT HERE!!!', data, this.storage);
+
       if (data != null) {
         await this.cache.restore(data);
 
